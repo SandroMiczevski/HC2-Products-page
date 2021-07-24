@@ -1,10 +1,23 @@
-# Getting Started with Create React App
+
+This project has been proposed as a challenge from a training program called Hiring Coders 2 by VTEX and partners.
+
+The main goal here is to simulate an ecommerce where we can add items to a cart. We will use local storage to store the cart's information 
+
+The app was built using REACT and TypeScript
+
+------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm prod-start`
+
+Runs the app in development mode in parallel with a simulation of a server using a RESTFull API (provided by json-server).
+
+The page can be accessed through [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm start`
 
